@@ -1,7 +1,7 @@
 - 👋 Hi,This is @TheTechSkills repo.
 - 😜 I have hot software content in my YouTube channel
 - 👀 I’m interested in Software development With
-- 🌱 I’m currently working with Java, SQL and Javascript
+- 🌱 I’m currently working with Web development, Java, SQL and Javascript
 - 💞️ I'm looking to create programming courses and collaborate on projects
 - 🐅 My mission is to teach programming4everyone and share cool open-source projects to the community
 - 📫 How to reach me ... Thetechskills@outlook.pt
